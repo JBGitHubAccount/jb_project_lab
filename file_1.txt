@@ -1,3 +1,4 @@
+I am in class right now.
 I am learning Git and GitHub.
 This will help me understand my Engineers.
 I'm getting smarter every day!
